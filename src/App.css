@@ -1,0 +1,167 @@
+
+.Parentbox{
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+.Foto{
+  float: left;
+  width: 50%;
+  height: 500px;
+  background: whitesmoke;
+}
+
+.Foto img{
+  width: 700px;
+}
+
+.Deskripsi{
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+
+
+.Deskripsi .Info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Info2 {
+  font-size: 10;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price{
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.Deskripsi .Title {
+  margin: 0;
+}
+
+
+.Deskripsi .Cate {
+  font-size: 25px;
+}
+
+.hwhw {
+  font-size: 25px;
+}
+
+.Deskripsi .hwhwhw {
+  font-size: 20px;
+  color: silver;
+}
+
+.Deskripsi .hwhwhwhw {
+  font-size: 40px;
+  color: rgb(0, 0, 0);margin-right: 40;
+}
+
+.juka{
+  font-size: 20px;
+  color: rgb(0, 25, 252);
+}
+
+
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 3px solid black;
+}
+th, td {
+  padding: 10px;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.but1{
+  font-size: 35px;
+  background: silver;
+  color: black;
+  border: white 3px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+}
+
+.but8{
+  font-size: 20px;
+  background: rgb(255, 255, 255);
+  color: black;
+  border: rgb(161, 161, 161) 1px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-right: 15px;
+  border-radius: 15%;
+}
+
+.but9{
+  font-size: 20px;
+  background: rgb(255, 255, 255);
+  color: black;
+  border: rgb(161, 161, 161) 1px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-right: 15px;
+  border-radius: 15%;
+}
+.but10{
+  font-size: 20px;
+  background: rgb(255, 107, 223);
+  color: rgb(255, 255, 255);
+  border: rgb(255, 107, 223) 1px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-right: 15px;
+  border-radius: 15%;
+}
+.but2{
+  font-size: 35px;
+  background: black;
+  color: white;
+  border: white 3px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+}
+.but3{
+  font-size: 10px;
+  background: rgb(255, 0, 0);
+  color: rgb(255, 0, 0);
+  border: rgb(255, 255, 255) 3px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.but4{
+  font-size: 10px;
+  background: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  border: rgb(255, 255, 255) 3px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.but5{
+  font-size: 10px;
+  background: rgb(76, 0, 255);
+  color: rgb(76, 0, 255);
+  border: rgb(255, 255, 255) 3px solid;
+  padding: 12px 20px;
+  margin-top: 25px;
+  border-radius: 50%;
+}
+a:hover, button:hover{
+  opacity:0.9;
+}
